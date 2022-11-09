@@ -22,12 +22,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: A Collection of Hats 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: From Beanies to Baseball: 
+tagline: "From Beanies to Baseball: A Look at Hats"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a didgital collection created in IU's Digital Libraries course. This website showcases that differnt hats a 26 year old college grad owns."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Jbingham14
+author: CollectionBuilder
 
 ##########
 # COLLECTION SETTINGS
