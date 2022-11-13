@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,Title,,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+date,Date Created,,
+location,Location,,
+format,Format,,
+description,Description,,
+type,Type,,
+creator,Creator,,
+latitude,Latitude,,
+longitude,Longitude,,
+manufacturer, Manufacturer,,
+brand,Brand,,
+color, color scheme,,
+rights,Rights,,
+source,Source,,
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
 rightsstatement,Rights Statement,,true
