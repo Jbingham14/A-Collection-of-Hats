@@ -2,10 +2,10 @@ field,display_name,browse_link,external_link
 title,Title,,
 subject,Subjects,true
 date,Date Acquired,,
-location,Placebought,,
+location,Place Bought,,
 format,Format,,
 description,Description,,
-type,Type,true
+type, Hat Type,true
 creator,Manufacturer,,
 latitude,Latitude,,
 longitude,Longitude,,
