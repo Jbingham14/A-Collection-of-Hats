@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,,
 subject,Subjects,true
-date,Date Acquired,,
-location,Place Bought,,
+date,Date_Acquired,,
+location,Place_Bought,,
 format,Format,,
 description,Description,,
 type, Hat Type,true
@@ -10,7 +10,7 @@ creator,Manufacturer,,
 latitude,Latitude,,
 longitude,Longitude,,
 brand,Brand,true
-identifier, color scheme,,
+identifier, color_scheme,,
 rights,Rights,,
 source,Source,,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights_Statement,,true
