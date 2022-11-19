@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
-type,Hat_Type,true,,Hat_Type
+type,Hat Type,true,,Hat Type
+brand, Brand, true,, Brand
