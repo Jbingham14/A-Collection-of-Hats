@@ -14,6 +14,20 @@ credits: true
 
 ## About the Collection
 
+About the Platform
+
+This site is generated using CollectionBuilder-GH, a project to create a free and simple digital collection using GitHub Pages from:
+•	a CSV of collection metadata
+•	a folder of JPG images or PDF documents
+
+About the Collection
+This collection contains images of hats. These hats belong to Jerome Bingham, a 26-year-old college student from Indiana. He hopes that this collection will give insight on hat culture from the early 2020’s and could provide historical examples of hat wearing in the future of fashion studies. The range of these hats range from 2010 to 2022. The oldest hat is from a Detroit Tigers baseball game in 2010. The newest hat is from November 2022 and is merchandise from the Formula One Club at IU. These hats range is types, brands, and manufacturers.
+
+About the Creator
+
+This digital collection is brought to by Jerome Bingham. Jerome is currently a second-year MA student at Indiana University. He is currently studying Library Science and plans to graduate in May of 2023. This digital collection was made as part of Z652 Digital Libraries, Fall 2022, Section 3874 and was taught by professor John A. Walsh and TA Alex Wingate. 
+
+
 Technical Documentation
 
 Items Chosen
