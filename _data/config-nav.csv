@@ -4,8 +4,8 @@
 "Subjects","/subjects.html",
 "Timeline","/timeline.html",
 "Data","/data.html",
-"Exhibit","/exhibit.html",
 "About",,
 "About the collection","/about.html","About"
 "People","/people.html","About"
-"Technical documentations","/technical.html","About"
+"Technical documentations","/technical.html","About",
+"Exhibit","/exhibit.html"
