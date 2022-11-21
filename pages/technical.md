@@ -16,7 +16,8 @@ These photos were taken using this Nikon and a Neewer Photo Studio Light Box bot
 hese photos were then uploaded and save on my home pc. I then uploaded and renamed the photos and then uploaded to GitHub. 
 I took photos from various angles but with my difficulty using GitHub I figured it was better to just feature the frontal images of the hats. 
 
-{% include feature/image.html objectid="PICK AN IMAGE" width="50" caption="INSERT A CAPTION" %}
+{% include feature/image.html objectid="https://libapps.s3.amazonaws.com/accounts/112129/images/Makerspace_Nikon.jpg" width="50" caption="NikonD5300" %}
+{% include feature/image.html objectid="https://libapps.s3.amazonaws.com/accounts/112129/images/Makerspace_Light_Box.jpeg" width="50" caption="Neewer Light box" %}
 
 INSERT
 
