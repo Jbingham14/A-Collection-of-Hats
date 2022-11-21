@@ -1,10 +1,11 @@
-display_name,stub,dropdown_parent
-Home,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-Exibit,/exibit.html
-About,/about.html
+"display_name","stub","dropdown_parent"
+"Home","/",
+"Browse","/browse.html",
+"Subjects","/subjects.html",
+"Timeline","/timeline.html",
+"Data","/data.html",
+"Exhibit","/exhibit",
+"About",,
+"About the collection","/about.html","About"
+"People","/people.html","About"
+"Technical documentations","/technical.html","About"
