@@ -15,7 +15,11 @@ For this exhibit I wanted to focus on caps that feature some sort of sports bran
   
   The other two other hats are from the world of Formula One Racing when fans can get heated over which drivers and teams they support. The two teams represented in my collection are Ferrari F1 and Red Bull Racing. These two teams faced off in a heated championship fight this year which ended in late November 2022. L Jon Wetheim of Sports Illustrated and sports psychologist Sam Sommers write about sports and the impact it has on the brains of sports fans in their book This is Your Brain On Sports. In their chapter ‘Tribal Warfare’ note that “In other words, only when the other team was their big rival did watching its slipups create just as powerful an emotion as seeing their favorite team succeed[^3].” Sports fandom is wild, and their fans are passionate and intense. One of the best ways to show this support is for fans to express their favoritism in a way that resembles tribalism. 
 
-# Bibliography
+
+{% include feature/image.html objectid="https://jbingham1496.wixsite.com/jeromesdphotography/a-home-for-hats-a-project?pgid=lar2iyn8-79c47b6f-9764-463c-9605-7b0759a7e893" width="200" height="400" caption="Ferrari F1" %}
+{% include feature/image.html objectid="https://jbingham1496.wixsite.com/jeromesdphotography/a-home-for-hats-a-project?pgid=lar2iyn8-f19a40fd-030e-408f-bc85-09091dcbde5f" width="200" height="400" caption="Red Bull Racing" %}
+
+### Bibliography
 Motsinger, Carol. “We Know Why You Wear a Baseball Cap.” The Cincinnati Enquirer.
 Gannett, April 2, 2017. https://www.cincinnati.com/story/sports/2017/04/02/we-know-why-you-wear-baseball-cap/99689202/. 
 Hats, Kiwi. “A Quick History of the Snapback Hat.” Medium. Medium, July 17, 2018. https://medium.com/@kiwihats86/a-quick-history-of-the-snapback-hat-629ee1d9ab02. 
