@@ -22,9 +22,8 @@ I took photos from various angles but with my difficulty using GitHub I figured 
 INSERT
 
 ## Metadata Standards
-The metadata for this project uses the metadata scheme of Dublin Core and one custom value I called “brand”.
-The values of individual elements are subject to both custom and established controlled vocabularies such as the Library of Congress Name Authority and the Getty Art and Architecture Thesaurus.
-Below is an explanation of what Dublin Core and text item type elements are used and what standards have been applied to their input.
+The metadata for this project uses the metadata scheme of Dublin Core and one custom value I called “brand” These values are subject to both custom and established terms from Dublin Core and from along with terms from the controlled vocabulary of the Getty Art and Architecture Thesaurus.
+In this section, this document will explain the Dublin Core fields and the custom elements that are used for inputs within this digital collection. 
  
 ### Dublin Core elements  
 #### Title - required, 1 value allowed
@@ -34,11 +33,9 @@ Examples: Achievement Hunter Dad, Red Bull Racing
 The subject field is the topic of a resource. For hats I used the subject field as similar to a genre term. While the Library of Congress has a set of genre/form terms, I used my own custom terms to better describe the collection.
 Examples: Golf, Formula 1
 #### Date - optional, 1 value allowed
-Date element contains the value of the date of publication which is important to include in any sort of bibliographic item. The dates are formatted according to the W3C date format which allows for dates to be inputted in this way:
-•    YYYY-MM-DD
-•    YYYY-MM
-•    YYYY
-Since I am unsure on the exact dates of many of the hats I decided to use the second date YYYY-MM. There are some fields left blank.
+The date element represents the value of the date of purchase or acquisition. This is an interesting bibliographic item within my metadata because it allows the user to get an idea of how long I have owned these hats. The dates are formatted using the standards issues by W3C date format. 
+•	YYYY-MM
+Using this documentation, I decided to use the YYYY-MM. This is due to the issue that I am unsure on the exact dates of many of the hats. There are some fields left blank. 
 Example: 2015-12, 2014-08
 #### Location - required, 1 value allowed
 This field represents where I purchased the hat. For those bought online, I used whatever my current location at that time was, which was either Indianapolis, IN or Bloomington, IN. For those I bought or received elsewhere, I included that city.
